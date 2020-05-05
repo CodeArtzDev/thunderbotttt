@@ -1,2 +1,0 @@
-# thunderbotttt
-Thunder Bot
